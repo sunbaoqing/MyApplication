@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whitetwo">#fcfcfc</color>
+    <color name="theme_color">#b90007</color>
+    <color name="theme_color_def">#73839b</color>
+    <!--<color name="theme_color_def">#282828</color>-->
+    <color name="light_gray">#666666</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="background_tab_def">#F5F5F7</color>
+    <color name="colorHintEdit">#6e696a</color>
+    <color name="black">#000000</color>
+    <color name="text_black">#80000000</color>
+    <color name="black1">#808080</color>
+    <color name="black2">#787777</color>
+    <color name="gray">#41413d</color>
+    <color name="line">#e0e0e0</color>
+    <color name="titlecolor">#73839b</color>
+    <!--<color name="titlecolor">#282828</color>-->
+    <color name="registerbotton">#b90007</color>
+    <color name="register">#ccb90007</color>
+    <color name="codetwo">#5d6573</color>
+    <color name="green">#0ff526</color>
+    <color name="trans">#55000000</color>
+    <color name="transla">#00000000</color>
+    <color name="white1">#FFFFFF</color>
+    <color name="blue">#0fcff5</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#00000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="canlendar_text_color">#323232</color>
+
+    <color name="line_bg">#DADADA</color>
+    <color name="week_unreached">#FFB6C1</color>
+    <color name="today">#fffffe</color>
+    <color name="map_ra">#8c9DD7F7</color>
+    <color name="map_bk">#ABDBF5</color>
+
+    <color name="holder_normal">#E84A40</color>
+    <color name="holder_pressed">#E22F2F</color>
+    <color name="tab_bg">#f8f8fa</color>
+    <color name="my_tab">#f34f89</color>
+    <color name="binging_number">#9C9C9C</color>
+    <color name="binging_text">#2bcdb2</color>
+    <color name="gray_lin">#f5f5f5</color>
+    <color name="gray_text">#a2a2a2</color>
+    <color name="gray_fx">#e8e8e8</color>
+    <color name="gray_bg">#fafafa</color>
+    <color name="transparent_background_button">#11000000</color>
+    <color name="transparent_background">#ffffff</color>
+
+    <!-- 设备类型 -->
+    <color name="smart_bg">#f2f2f2</color>
+    <color name="smart_btn_bg">#fcfcfc</color>
+    <color name="smart_bt_bg_line">#eeeeee</color>
+    <color name="smart_bt_text">#72829b</color>
+    <color name="smart_bt_text1">#474747</color>
+    <color name="smart_red">#b90007</color>
+    <color name="move_red">#eb6100</color>
+
+
+    <color name="smartcommentitle">#eb6100</color>
+</resources>
